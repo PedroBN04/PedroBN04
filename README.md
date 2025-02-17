@@ -21,8 +21,3 @@ Sou um entusiasta da programação, sempre buscando expandir meus conhecimentos,
     <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
   </a>
 </p>
-
----
-
-⚡ **Sempre aberto a novas oportunidades e aprendizado contínuo!**  
-
