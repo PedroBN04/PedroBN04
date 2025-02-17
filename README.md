@@ -6,6 +6,7 @@ Sou um entusiasta da programação, sempre buscando expandir meus conhecimentos,
 
 ## 🚀 Habilidades  
 🔹 **Linguagens:** Python, SQL, HTML, JavaScript, CSS
+
 🔹 **Ferramentas:** Power BI, Jupyter Notebook, Excel  
 🔹 **Áreas de Interesse:** Análise de Dados, Machine Learning, Automação de Processos  
 
