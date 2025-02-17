@@ -1,14 +1,15 @@
 # 👋 Olá! Seja bem-vindo ao meu perfil no GitHub!  
 
-Sou um entusiasta da programação, sempre buscando expandir meus conhecimentos, especialmente em **Python** e **análise de dados**. Atualmente, curso **Gestão da Informação** na **Universidade Federal de Uberlândia (UFU)**, onde aprofundo minha compreensão sobre **tecnologia, otimização de processos e análise de dados**.  
+Sou um entusiasta da programação, sempre buscando expandir meus conhecimentos, especialmente em **Python** e **análise de dados**. Atualmente, curso **Gestão da Informação** na **Universidade Federal de Uberlândia (UFU)**, onde aprofundo minha compreensão sobre **tecnologia, otimização de processos e análise de dados**. Busco desafios que me permitam crescer profissionalmente e contribuir para soluções inovadoras.  
 
-💡 Busco desafios que me permitam crescer profissionalmente e contribuir para soluções inovadoras.  
+---
 
 ## 🚀 Habilidades  
-🔹 **Linguagens:** Python, SQL, HTML, JavaScript, CSS
-
+🔹 **Linguagens:** Python, SQL, HTML, JavaScript, Css  
 🔹 **Ferramentas:** Power BI, Jupyter Notebook, Excel  
 🔹 **Áreas de Interesse:** Análise de Dados, Machine Learning, Automação de Processos  
+
+---
 
 ## 📲 Conecte-se comigo!  
 
@@ -21,4 +22,7 @@ Sou um entusiasta da programação, sempre buscando expandir meus conhecimentos,
   </a>
 </p>
 
+---
+
 ⚡ **Sempre aberto a novas oportunidades e aprendizado contínuo!**  
+
