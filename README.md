@@ -41,10 +41,6 @@ Busco desafios que me permitam crescer profissionalmente e contribuir para solu�
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PedroBN04&color=3B82F6&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Profile views" />
-</div>
-
-<div align="center">
   
 ### 💭 *"A inovação distingue um líder de um seguidor"* - Steve Jobs
 
