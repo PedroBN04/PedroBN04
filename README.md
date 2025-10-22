@@ -1,9 +1,5 @@
 # 👋 Olá! Seja bem-vindo ao meu perfil no GitHub!
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Entusiasta+da+Programação;Analista+de+Dados;Pesquisador+em+P%26D" alt="Typing SVG" />
-</div>
-
 ## 🚀 Sobre mim
 
 Sou um entusiasta da programação, sempre buscando expandir meus conhecimentos, especialmente em **Python** e **análise de dados**. Atualmente, curso **Gestão da Informação** na **Universidade Federal de Uberlândia (UFU)** e trabalho na área de **P&D do Brain**, um instituto de ciência e inovação, onde estou sempre pesquisando e testando tecnologias novas e inovadoras.
